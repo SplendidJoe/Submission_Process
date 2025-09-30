@@ -47,11 +47,6 @@
 | 2025.8.3  |        Submitted (Revision 1)        | 30 days  |
 | 2025.8.3  |             Under review             |          |
 | 2025.8.3  |        With Associate Editor         |          |
-|           |                                      |          |
-|           |                                      |          |
-|           |                                      |          |
-|           |                                      |          |
-|           |                                      |          |
-|           |                                      |          |
-|           |                                      |          |
-|           |                                      |          |
+| 2025.9.28 |        Awaiting Editor Review        | 56 days  |
+| 2025.9.29 |               Accepted               |  1 days  |
+
